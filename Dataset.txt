@@ -1,0 +1,6 @@
+1.Current Quiz Data-
+   QUIZ ENDPOINT-https://jsonkeeper.com/b/LLQT
+   QUIZ SUBMISSION DATA-https://api.jsonserve.com/rJvd7g
+
+2.Historical Quiz Data-
+   API ENDPOINT-https://api.jsonserve.com/XgAgFJ
