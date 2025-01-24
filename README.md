@@ -16,11 +16,11 @@ Provides visualizations to track trends and pinpoint gaps in performance
 ---
 
 ## **Setup Instructions**
--Python 3.7 or higher
--Libraries:
-    1.pandas
-    2.matplotlib
-    3.requests
+-Python 3.7 or higher<br>
+-Libraries:<br>
+    1.pandas<br>
+    2.matplotlib<br>
+    3.requests<br>
 
 ---
 
