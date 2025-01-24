@@ -13,6 +13,7 @@ Highlights performance gaps by comparing user performance with overall averages.
 Generates actionable recommendations for weak topics, performance gaps, and general improvement strategies.
 Provides visualizations to track trends and pinpoint gaps in performance
 
+---
 
 ## **Setup Instructions**
 -Python 3.7 or higher
@@ -21,12 +22,12 @@ Provides visualizations to track trends and pinpoint gaps in performance
     2.matplotlib
     3.requests
 
+---
 
 ### **Installation Steps**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repository/personalized-quiz-analysis.git
-  cd personalized-quiz-analysis
+   git clone https://github.com/your-repository/personalized-quiz-analysis.git cd personalized-quiz-analysis
    ```
 
 2. **Install the required Python libraries:**
