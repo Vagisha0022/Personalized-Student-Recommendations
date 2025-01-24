@@ -107,18 +107,24 @@ Rolling averages showed whether the user's performance improved or declined over
 **Performance Gaps:**<br>
 Specific quizzes were flagged where performance was below average.<br>
 
-###**Recommendations**
+
+### **Recommendations**
+
 1.Focus on weak topics (e.g., "Cell Biology").<br>
 2.Review low-performing quizzes to understand mistakes.<br>
 3.Set specific goals for each quiz and practice consistently.<br>
 4.Track improvement over time using rolling accuracy trends.<br>
 
-###**Future Enhancements**
+
+### **Future Enhancements**
+
 -Include more detailed insights like time spent per question.<br>
 -Develop a web-based interface to display results dynamically.<br>
 -Add personalized quizzes to help students target weak areas.<br>
 
-###**Conclusion**
+
+### **Conclusion**
+
 This project effectively analyzes quiz performance data and provides students with clear, actionable recommendations. The system’s focus on insights and visualizations makes it an invaluable tool for personalized learning.
 
 
